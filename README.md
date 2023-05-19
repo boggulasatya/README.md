@@ -3,6 +3,6 @@
 ## Summary
 This repository contains all of the notes taken by [Satyavathi](https://github.com/boggulasatya/README.md) for the Lighthouse Labs Web Development Bootcamp.
 
-# Table Of Contents
+## Table Of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
